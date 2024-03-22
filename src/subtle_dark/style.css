@@ -1,0 +1,8 @@
+.shudan-goban {
+  --shudan-board-background-color: rgba(166,138,101,.4);
+  --shudan-board-foreground-color: #222;
+}
+
+.shudan-gridline {
+  fill: rgb(76, 47, 0, 0.8);
+}

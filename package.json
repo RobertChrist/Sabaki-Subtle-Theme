@@ -1,0 +1,22 @@
+{
+  "name": "subtle_theme",
+  "version": "1.0.0",
+  "description": "An iteration on the ideas in Hikaru 2 by Jdriselvato and Sabaki Subdued theme by Rooklift, with some custom edits.",
+  "scripts": {
+    "wipe_dist": "bash -c 'rm -rf ./dist/*'",
+    "wipe_tmp": "bash -c 'rm -rf ./tmp'",
+    "wipe": "npm run wipe_dist && npm run wipe_tmp",
+    "build": "bash -c './build.sh'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/RobertChrist/Sabaki-Subtle-Theme"
+  },
+  "author": "Robert Christ",
+  "license": "MIT",
+  "devDependencies": {
+    "asar": "^3.2.0",
+    "concat": "^1.0.3",
+    "json-merger": "^1.1.10"
+  }
+}
