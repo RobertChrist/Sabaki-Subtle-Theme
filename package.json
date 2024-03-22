@@ -8,6 +8,10 @@
     "wipe": "npm run wipe_dist && npm run wipe_tmp",
     "build": "bash -c './build.sh'"
   },
+  "engines": {
+    "node": ">=v20.11.1",
+    "npm": "10.2.4"
+  },
   "repository": {
     "type": "git",
     "url": "github.com/RobertChrist/Sabaki-Subtle-Theme"
