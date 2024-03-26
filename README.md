@@ -10,7 +10,12 @@ Shōrin-zu byōbu (Japanese Pine Trees) faded onto goban with natural styles.
 | Subtle - Dark                                                                                      | ![Theme Screenshot](./img/subtle_dark/Screenshot.png)                                                               |
 
 ### Installation
-* To install, just download the asar file in the [/dist folder](./dist/), and then in Sabaki, see Preferences --> Themes.
+* First download the asar file
+  * [Subtle - Paper](https://github.com/RobertChrist/Sabaki-Subtle-Theme/raw/main/dist/subtle_paper.asar)
+  * [Subtle - Kaya](https://github.com/RobertChrist/Sabaki-Subtle-Theme/raw/main/dist/subtle_kaya.asar)
+  * [Subtle - Dark](https://github.com/RobertChrist/Sabaki-Subtle-Theme/raw/main/dist/subtle_dark.asar)
+* And then in Sabaki, install the file via Preferences --> Themes.
+
 
 ### Credits
 * This theme is an iteration of [Jdriselvato's Hikaru-2 theme](https://github.com/jdriselvato/Hikaru-2-Sabaki-Theme/), and [Rooklift's Subdued theme](https://github.com/rooklift/sabaki_subdued_theme_40).
